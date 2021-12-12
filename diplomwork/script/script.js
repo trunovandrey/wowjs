@@ -1,0 +1,1 @@
+$('.section-foundation').parallax({imageSrc: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Frosphoto.com%2Fbest-of-the-best%2F55_luchshih_foto_online-galerei-4112&psig=AOvVaw3KI8t_IgluRKSi32XeFGX6&ust=1639420787548000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPC92cD03vQCFQAAAAAdAAAAABAD'});
